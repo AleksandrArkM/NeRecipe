@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NeRecipe</string>
+    <string name="description_recipe_options">Меню рецепта</string>
+    <string name="description_recipe_favorite">Избранный рецепт</string>
+    <string name="add_recipe">Добавить рецепт</string>
+    <string name="description_recipe_save">Сохранить рецепт</string>
+    <string name="remove">Удалить</string>
+    <string name="menu_edit">Редактировать</string>
+    <string name="description_recipe_drag">Перетащить рецепт</string>
+    <string name="description_content_media">Медиа контента</string>
+    <string name="title_text">Введите заголовок для нового рецепта</string>
+    <string name="category_text">Выберете категорию</string>
+    <string name="title_home">Рецепты</string>
+    <string name="title_favorite">Избранное</string>
+    <string name="search">Поиск</string>
+    <string name="filter">Фильтр</string>
+    <string name="find_recipe">Найти рецепт</string>
+    <string name="filterTextFragment">Измените фильтр</string>
+    <string name="step_text_for_number">Шаг №</string>
+    <string name="title">Заголовок:</string>
+    <string name="category">Категория:</string>
+    <string name="empty_state_text">Список рецептов пуст</string>
+    <string name="empty_state_text_done">Добавьте рецепт или измените фильтр</string>
+    <string name="empty_state_text_favorite">Пусто</string>
+    <string name="edit_text_step">Введите название шага</string>
+    <string name="text_add_edit_step">Описание для приготовления:</string>
+    <string name="add_picture">Добавить картинку :</string>
+    <string-array name="category_names">
+        <item>Европейская</item>
+        <item>Азиатская</item>
+        <item>Паназиатская</item>
+        <item>Восточная</item>
+        <item>Американская</item>
+        <item>Русская</item>
+        <item>Средиземноморская</item>
+    </string-array>
+</resources>

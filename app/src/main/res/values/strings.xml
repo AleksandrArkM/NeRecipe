@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">NeRecipe</string>
+    <string name="description_recipe_options">Recipe options</string>
+    <string name="description_recipe_favorite">Recipe favorite</string>
+    <string name="add_recipe">Add recipe</string>
+    <string name="description_recipe_save">Save recipe</string>
+    <string name="remove">Remove</string>
+    <string name="menu_edit">Edit</string>
+    <string name="description_recipe_drag">Drag recipe</string>
+    <string name="description_content_media">Media content</string>
+    <string name="title_text">Enter title text for new recipe</string>
+    <string name="category_text">Enter category text</string>
+    <string name="title_home">Recipes</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="search">Search</string>
+    <string name="filter">Filter</string>
+    <string name="find_recipe">Find recipe</string>
+    <string name="filterTextFragment">Change filter</string>
+    <string name="step_text_for_number">Step №</string>
+    <string name="title">Title:</string>
+    <string name="category">Category:</string>
+    <string name="empty_state_text">There are no recipes</string>
+    <string name="empty_state_text_done">Add a recipe or change the filter</string>
+    <string name="empty_state_text_favorite">Empty</string>
+    <string name="edit_text_step">Enter new step</string>
+    <string name="text_add_edit_step">Description for cooking:</string>
+    <string name="add_picture">Add picture:</string>
+    <string-array name="category_names">
+        <item>European</item>
+        <item>Asian</item>
+        <item>Pan-asian</item>
+        <item>Eastern</item>
+        <item>American</item>
+        <item>Russian</item>
+        <item>Mediterranean</item>
+    </string-array>
+</resources>
